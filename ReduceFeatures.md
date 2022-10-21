@@ -1,3 +1,4 @@
+# Methods
 + PCA
 + MDS
 + LDA
