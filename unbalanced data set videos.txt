@@ -1,0 +1,6 @@
+Unbalanced Classification + python Implementation
+
+https://www.youtube.com/watch?v=JnlM4yLFNuo
+
+Confusion matrix + Precision + Recall + F1 Score
+https://www.youtube.com/watch?v=2osIZ-dSPGE
